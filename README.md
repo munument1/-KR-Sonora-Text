@@ -28,7 +28,7 @@ language=Korean
 ## 2. Sfall / NovaRain 버전
 
 1. [Fallout Sonora English - Sfall 버전](https://github.com/NovaRain/Fallout-Sonora-English/releases/tag/1.16.4-sfall)에서 Sonora를 다운로드합니다.
-2. `KR_sfall` 파일과 Sonora 한국어 텍스트 데이터를 게임 폴더에 덮어씁니다.
+2. `Sfall_Ddraw` 파일과 Sonora 한국어 텍스트 데이터를 게임 폴더에 덮어씁니다.
 3. `Fallout2.cfg` 파일을 열고 `[system]` 섹션에서 아래와 같이 수정합니다.
 
 ```ini
